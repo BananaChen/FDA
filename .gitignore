@@ -2,7 +2,7 @@
 *.ipynb_checkpoints/
 
 # DS_Store
-*.DS_Store
+.DS_Store
 
 # Data set
 Hw1/NYC_current_job_postings/
